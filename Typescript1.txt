@@ -1,0 +1,3 @@
+Typescript é uma linguagem tipamente muito forte, ou seja, 
+sua tipagem é sua principal característica e como um todo
+é um superset do JS.
